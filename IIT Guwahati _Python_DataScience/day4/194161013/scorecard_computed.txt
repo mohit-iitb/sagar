@@ -1,0 +1,26 @@
+India Innings
+BATSMEN             R    B    4s   6s   SR   
+Dhawan              8    12   1    0    66.67
+sharma              122  144  13   2    84.72
+Kohli               18   34   1    0    52.94
+Rahul               26   42   2    0    61.9
+Dhoni               34   46   2    0    73.91
+pandya              15   7    3    0    214.29
+Extras                                  7(lb 3,w 4)
+TOTAL                           230/4(47.3,RR:4.86)
+ 
+Fall of wickets: 1-13 (Shikhar Dhawan, 5.1 ov), 2-54 (Virat Kohli, 15.3 ov), 3-139 (KL Rahul, 31.3 ov), 4-213 (MS Dhoni, 46.1 ov)
+
+
+BOWLING             O    R    4s   6s   WD   NB
+Imran Tahir         10   58   4    0    0    0
+Rabada              10   39   4    1    1    0
+Morris              10   36   5    0    1    0
+Phehlukwayo         8.67 40   5    0    1    0
+Shamsi              9    54   4    1    1    0
+
+
+
+South Africa Inning
+BATSMEN             R    B    4s   6s   SR   
+Rabada              31   35   2    0    88.57
